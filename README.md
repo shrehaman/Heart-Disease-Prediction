@@ -6,6 +6,7 @@
 
 The Heart Disease Prediction project focuses on the development of a machine learning model that provides improved accuracy in predicting heart diseases compared to existing models. The project incorporates various machine learning algorithms and methods to analyze patient data and classify individuals based on their risk of heart disease. By leveraging the power of machine learning, the project aims to enhance early detection and improve patient outcomes.
 
+Project - 19
 
 ## Table of Contents
 - [Contributing](#contributing)
